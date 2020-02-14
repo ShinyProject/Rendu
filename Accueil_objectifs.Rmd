@@ -1,0 +1,15 @@
+---
+title: "Accueil Objectifs"
+output: pdf_document
+---
+
+# Accueil
+
+## Aperçu des données
+- datatable des données RNAseq.
+
+## Clickable Volcano & MA plots
+https://2-bitbio.com/2017/12/clickable-volcano-plots-in-shiny.html
+
+## Bonus
+https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html
